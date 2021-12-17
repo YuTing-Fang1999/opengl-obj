@@ -1,4 +1,4 @@
-# opengl-obj-loader
+# opengl obj loader
 
 opengl model loader for obj and mtl.    
 
