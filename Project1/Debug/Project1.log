@@ -1,0 +1,30 @@
+﻿  glm.cpp
+C:\Users\s830s\Downloads\Project1 objLoader\Project1 objLoader\Project1\glm.cpp(307,45): warning C4305: '=': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+C:\Users\s830s\Downloads\Project1 objLoader\Project1 objLoader\Project1\glm.cpp(308,45): warning C4305: '=': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+C:\Users\s830s\Downloads\Project1 objLoader\Project1 objLoader\Project1\glm.cpp(309,45): warning C4305: '=': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+C:\Users\s830s\Downloads\Project1 objLoader\Project1 objLoader\Project1\glm.cpp(311,45): warning C4305: '=': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+C:\Users\s830s\Downloads\Project1 objLoader\Project1 objLoader\Project1\glm.cpp(312,45): warning C4305: '=': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+C:\Users\s830s\Downloads\Project1 objLoader\Project1 objLoader\Project1\glm.cpp(313,45): warning C4305: '=': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+C:\Users\s830s\Downloads\Project1 objLoader\Project1 objLoader\Project1\glm.cpp(811,24): warning C4244: '=': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\s830s\Downloads\Project1 objLoader\Project1 objLoader\Project1\glm.cpp(812,24): warning C4244: '=': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\s830s\Downloads\Project1 objLoader\Project1 objLoader\Project1\glm.cpp(813,24): warning C4244: '=': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\s830s\Downloads\Project1 objLoader\Project1 objLoader\Project1\glm.cpp(816,17): warning C4244: '=': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\s830s\Downloads\Project1 objLoader\Project1 objLoader\Project1\glm.cpp(1016,20): warning C4244: '=': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\s830s\Downloads\Project1 objLoader\Project1 objLoader\Project1\glm.cpp(1172,23): warning C4244: '=': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\s830s\Downloads\Project1 objLoader\Project1 objLoader\Project1\glm.cpp(1179,49): warning C4244: '=': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\s830s\Downloads\Project1 objLoader\Project1 objLoader\Project1\glm.cpp(1180,49): warning C4244: '=': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\s830s\Downloads\Project1 objLoader\Project1 objLoader\Project1\glm.cpp(1230,17): warning C4244: '=': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\s830s\Downloads\Project1 objLoader\Project1 objLoader\Project1\glm.cpp(1231,19): warning C4244: '=': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\s830s\Downloads\Project1 objLoader\Project1 objLoader\Project1\glm.cpp(1238,39): warning C4305: '=': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+C:\Users\s830s\Downloads\Project1 objLoader\Project1 objLoader\Project1\glm.cpp(1240,27): warning C4244: '=': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\s830s\Downloads\Project1 objLoader\Project1 objLoader\Project1\glm.cpp(1243,42): warning C4305: '=': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+C:\Users\s830s\Downloads\Project1 objLoader\Project1 objLoader\Project1\glm.cpp(1245,37): warning C4244: '=': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\s830s\Downloads\Project1 objLoader\Project1 objLoader\Project1\glm.cpp(1248,45): warning C4244: '=': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\s830s\Downloads\Project1 objLoader\Project1 objLoader\Project1\glm.cpp(1249,43): warning C4244: '=': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\s830s\Downloads\Project1 objLoader\Project1 objLoader\Project1\glm.cpp(1489,23): warning C4477: 'fprintf' : 格式字串 '%d' 需要 'int' 類型的引數，但 variadic 引數 1 的類型為 'GLfloat *'
+  Source.cpp
+C:\Users\s830s\Downloads\Project1 objLoader\Project1 objLoader\Project1\Source.cpp(9,34): warning C4305: '正在初始化': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+C:\Users\s830s\Downloads\Project1 objLoader\Project1 objLoader\Project1\Source.cpp(71,13): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\s830s\Downloads\Project1 objLoader\Project1 objLoader\Project1\Source.cpp(81,13): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+  正在產生程式碼...
+  Project1.vcxproj -> C:\Users\s830s\Downloads\Project1 objLoader\Project1 objLoader\Debug\Project1.exe
